@@ -6,7 +6,7 @@
 <br />
 <br />
 
-Quick facts about me:
+### Quick facts about me:
 
 - 🔭 I’m currently working on ...PenroseCSS
 - 🌱 I’m currently learning ...Python
