@@ -1,11 +1,7 @@
 ### Hi there, I'm Nik! 👋
-
 <!--
 **rosalesnikho/rosalesnikho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<br />
-<br />
-
 ### Quick facts about me:
 
 - 🔭 I’m currently working on ...PenroseCSS
