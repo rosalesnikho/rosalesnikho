@@ -5,7 +5,7 @@
 ### Quick facts about me:
 
 - I’m currently working on ...PenroseCSS
-- I’m currently learning ...Python
+- I’m currently learning ...C#
 - I’m looking to collaborate on ...Crypocurrency Projects
 - I’m looking for help with ...Grasping Elliptic Curve Cryptography
 - How to reach me: ...rosales.nikho@gmail.com 
