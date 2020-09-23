@@ -8,7 +8,6 @@
 - I’m currently learning ...C#
 - I’m looking to collaborate on ...Crypocurrency Projects
 - I’m looking for help with ...Grasping Elliptic Curve Cryptography
-- How to reach me: ...rosales.nikho@gmail.com 
 - Fun fact: ...My cat has his own IG Page
 
 ### Around The Web:
