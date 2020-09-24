@@ -7,7 +7,6 @@
 - I’m currently working on ...PenroseCSS
 - I’m currently learning ...C#
 - I’m looking to collaborate on ...Crypocurrency Projects
-- I’m looking for help with ...Grasping Elliptic Curve Cryptography
 - Fun fact: ...My cat has his own IG Page
 
 ### Around The Web:
