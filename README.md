@@ -5,7 +5,7 @@
 ### Quick facts about me:
 
 - I’m currently working on ...PenroseCSS & Yarn App
-- I’m currently learning ...Django REST
+- I’m currently learning ...Adobe XD
 - I’m looking to collaborate on ...Crypocurrency Projects
 - Fun fact: ...My cat has his own IG Page
 
