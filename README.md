@@ -5,7 +5,7 @@
 ### Quick facts about me:
 
 - I’m currently working on ...PenroseCSS & Yarn App
-- I’m currently learning ...UX/UI Assumption Mapping
+- I’m currently learning ...VueJS 2-Way-Binding
 - I’m looking to collaborate on ...Crypocurrency Projects
 - Fun fact: ...My cat has his own IG Page
 
