@@ -12,6 +12,9 @@
 ### Around The Web:
 Personal Site: www.nikrosales.dev
 
+### The Stats:
+![Nik's Github stats](https://github-readme-stats.vercel.app/api?username=rosalesnikho&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)
+
 ### Languages and Tools:
 
 <img align="left" alt="jetbrains" width="26px" src="https://avatars0.githubusercontent.com/u/878437?s=200&v=4" />
