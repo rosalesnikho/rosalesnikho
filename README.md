@@ -13,8 +13,7 @@
 Personal Site: www.nikrosales.dev
 
 ### The Stats:
-![Github stats](https://github-readme-stats.vercel.app/api?username=rosalesnikho&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosalesnikho)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=rosalesnikho&show_icons=true&theme=dracula&count_private=true&hide=stars,issues)
 
 ### Languages and Tools:
 
