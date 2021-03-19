@@ -5,7 +5,7 @@
 ### Quick facts about me:
 
 - I’m currently working on ...PenroseCSS & Yarn App
-- I’m currently learning ...Svelte
+- I’m currently learning ...SvelteJS
 - I’m looking to collaborate on ...Crypocurrency Projects
 - Fun fact: ...My cat has his own IG Page
 
