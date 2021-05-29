@@ -4,7 +4,7 @@
 -->
 ### Quick facts about me:
 
-- I’m currently working on ...PenroseCSS & Yarn App
+- I’m currently working on ...blockCred
 - I’m currently learning ...Algorand
 - I’m looking to collaborate on ...Crypocurrency Projects
 - Fun fact: ...My cat has his own IG Page
