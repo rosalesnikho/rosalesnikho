@@ -9,8 +9,5 @@
 - I’m looking to collaborate on ...Crypocurrency Projects
 - Fun fact: ...My cat has his own IG Page
 
-### Around The Web:
-Personal Site: www.nikrosales.dev
-
 ### The Stats:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rosalesnikho&show_icons=true&theme=vue&count_private=true&hide=stars,issues)
