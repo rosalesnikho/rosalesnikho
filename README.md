@@ -4,9 +4,9 @@
 -->
 ### Quick facts about me:
 
-- I’m currently working on ...blockCred
-- I’m currently learning ...Algorand
-- I’m looking to collaborate on ...Crypocurrency Projects
+- I’m currently working on ...ZenQR
+- I’m currently learning ...FastAPI
+- I’m looking to collaborate on ...Python Projects
 - Fun fact: ...My cat has his own IG Page
 
 ### The Stats:
