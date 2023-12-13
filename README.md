@@ -4,10 +4,9 @@
 -->
 ### Quick facts about me:
 
-- I’m currently working on ...ZenQR
+- I’m currently working on ...Webflow
 - I’m currently learning ...FastAPI
 - I’m looking to collaborate on ...Python Projects
-- Fun fact: ...My cat has his own IG Page
 
 ### The Stats:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rosalesnikho&show_icons=true&theme=vue&count_private=true&hide=stars,issues)
